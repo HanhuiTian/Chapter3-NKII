@@ -1,0 +1,9 @@
+Check,Value
+Taylor_BK_residual,3.99680288865056e-15
+Taylor_analytical_crosscheck,4.88498130835069e-15
+Commitment_BK_residual,1.0547118733939e-15
+Commitment_FOC_residual,8.67361737988404e-18
+Determinacy_grid_points,38799
+Determinacy_grid_mismatches,0
+Demand_scaling_equilibrium_residual,7.28583859910259e-17
+Demand_scaling_equivalence_error,7.54951656745106e-15
